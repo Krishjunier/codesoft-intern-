@@ -35,11 +35,12 @@ Tasks
 
 * Techniques: TF-IDF, Support Vector Machines, Logistic Regression
 * File: notebooks/sms_spam_detection.py
+  
 Datasets
-MOVIE GENRE CLASSIFICATION (https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
-Credit Card Fraud Detection Dataset(https://www.kaggle.com/datasets/kartik2112/fraud-detection)
-Customer Churn Prediction Dataset(https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
-SMS Spam Detection Dataset(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+    MOVIE GENRE CLASSIFICATION (https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
+    Credit Card Fraud Detection Dataset(https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+    Customer Churn Prediction Dataset(https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
+    SMS Spam Detection Dataset(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 Dependencies
       scikit-learn
@@ -48,4 +49,4 @@ Dependencies
       matplotlib
       seaborn
 License
-         Specify your project's license information here.
+      Specify your project's license information here.
