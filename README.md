@@ -1,4 +1,5 @@
-Machine Learning Project: Classification and Prediction
+#Machine Learning Project: Classification and Prediction
+
 This repository contains a machine learning project focusing on classification and prediction tasks across various domains including movie genres, credit card fraud detection, customer churn prediction, and SMS spam detection.
 Table of Contents
 1.Overview
